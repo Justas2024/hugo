@@ -1,0 +1,4 @@
+[submodule "mypage/public"]
+	path = mypage/public
+	url = https://github.com/Justas2024/Justas.github.io.git
+	branch = main
